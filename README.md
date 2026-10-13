@@ -4,4 +4,4 @@ Week 1 internship assignment: a static personal portfolio built with HTML, CSS, 
 
 ## Live site
 
-- GitHub repository: `https://github.com/rnm35/portfolio`
+- GitHub repository: `https://rnm35.github.io/portfolio/` 
